@@ -1,0 +1,3 @@
+﻿  WordCount.cpp
+D:\visual stadio\WordCount\WordCount\WordCount.cpp(7,30): warning C4083: 应输入“newline”；找到标识符“；”
+  WordCount.vcxproj -> D:\visual stadio\WordCount\x64\Debug\WordCount.exe
